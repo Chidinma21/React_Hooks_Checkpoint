@@ -61,7 +61,7 @@ const AddMovie = ({handleAdd}) => {
         </div>
         <div style ={{display: "flex", justifyContent: "center"}}>
         <button 
-          type="submit" 
+          type="button" 
           className="btn btn-danger" 
           onClick = {
             () => 
